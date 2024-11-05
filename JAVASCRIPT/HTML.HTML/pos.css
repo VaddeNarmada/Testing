@@ -1,0 +1,26 @@
+.box {
+  height: 150px;
+  width: 100px;
+  display: inline-block;
+  margin: 5px;
+  border: 4px sandybrown;
+}
+body {
+  height: 200vh;
+}
+.box1 {
+  position: static;
+  bottom: 20px;
+  right: 20px;
+}
+.box3 {
+  position: relative;
+  top: 34px;
+  left: 5px;
+}
+.box3 {
+  position: absolute;
+}
+.box4 {
+  position: sticky;
+}
