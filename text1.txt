@@ -1,1 +1,2 @@
-File1 bug fixed
+File1 bug fixed 
+"Registration link"
